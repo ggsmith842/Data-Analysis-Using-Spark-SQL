@@ -22,9 +22,11 @@ The data sets included in this repo are:
 
 I've included two screenshots that show the built-in visualization capabilities of Databricks. These are created using the `display` command and the databricks GUI.
 
+The first visualization shows the returns for each stock in the sample portfolio plotted for one year.
+![Stock returns](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Databricks%20Images/databricks_ex_returns.png)
 
-
-
+The second visual shows how we can plot the moving averages along with the closing price for technical analysis.
+![Technical Indicators](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Databricks%20Images/databricks_ex_ma.png)
 
 
 *Notes*
