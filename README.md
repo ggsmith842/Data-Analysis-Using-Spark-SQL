@@ -5,17 +5,27 @@ The notebooks in this repository follow the concepts covered in the above mentio
 
 ## Topics Covered:
 
-1. Intro to SparkSQL
-2. Data Preparation
-3. Executing Queries in Spark
-4. Data Schemas in Spark
-5. Window Functions in Spark
+1. [Intro to SparkSQL](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20I%20Intro%20to%20Spark%20SQL.ipynb)
+2. [Data Preparation](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20II%20Data%20Preparation%20for%20Spark.ipynb)
+3. [Executing Queries in Spark](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20III%20Executing%20Queries.ipynb)
+4. [Data Schemas in Spark](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20IV%20Schemas.ipynb)
+5. [Window Functions in Spark](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20V%20Window%20Functions.ipynb)
 
 ## Data Theme
 I will be using financial data for different exercises shown in this notebook as I've always enjoyed studying the financial markets and Finance is an industry that will continue to see growth in the use of Big Data frameworks like Spark. 
 
-I am not a finance expert and any opinions or investments showcased in this repository are not recomendations or reflect any financial advice. Please note some data may be fictionalized.
+The data sets included in this repo are:
+1. Price data from yfinance including company overviews
+2. Fictionalized client data for an Asset Managment firm
+
+## Selected Screenshots From Databricks
+
+I've included two screenshots that show the built-in visualization capabilities of Databricks. These are created using the `display` command and the databricks GUI.
+
+
+
+
 
 
 *Notes*
-This code uses public data and is for educational purposes only. 
+This code uses public data and is for educational purposes only. I am not a finance expert and any opinions or investments showcased in this repository are not recomendations or reflect any financial advice. Please note some data may be fictionalized.
