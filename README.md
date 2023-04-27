@@ -1,7 +1,6 @@
 # Data-Analysis-Using-Spark-SQL
-Custom Code that follows along with the Course Data Analysis using Spark SQL from Percipio
 
-The notebooks in this repository follow the concepts covered in the above mentioned course. I used Databricks Community Edition as my Spark enviorment and use the pyspark API.
+The notebooks in this repository cover the introductory concepts of Spark. I used Databricks Community Edition as my Spark enviorment and most of the code will be Python or SQL.
 
 ## Topics Covered:
 
