@@ -9,6 +9,7 @@ The notebooks in this repository cover the introductory concepts of Spark. I use
 3. [Executing Queries in Spark](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20III%20Executing%20Queries.ipynb)
 4. [Data Schemas in Spark](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20IV%20Schemas.ipynb)
 5. [Window Functions in Spark](https://github.com/ggsmith842/Data-Analysis-using-Spark-SQL/blob/main/Part%20V%20Window%20Functions.ipynb)
+6. [User-Defined Functions (UDFs)](https://github.com/ggsmith842/Data-Analysis-Using-Spark-SQL/blob/main/Part%20VI%20User%20Defined%20Functions%20(UDFs).ipynb)
 
 ## Data Theme
 I will be using financial data for different exercises shown in this notebook as I've always enjoyed studying the financial markets and Finance is an industry that will continue to see growth in the use of Big Data frameworks like Spark. 
